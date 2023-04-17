@@ -54,6 +54,13 @@ export const Title = {
   required: false,
 };
 
+export const Subtitle = {
+  label: 'Subitle',
+  name: 'subtitle',
+  widget: 'string',
+  required: false,
+};
+
 export const Content = {
   label: 'Content',
   name: 'content',

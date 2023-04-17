@@ -10,6 +10,11 @@ yarn-error.log
 .env.*
 !.env.example
 !.env.development
+!.env.production
 
 # Local Netlify folder
 .netlify
+.yarn
+.github
+.history
+*.code-workspace

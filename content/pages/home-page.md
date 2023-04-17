@@ -4,8 +4,23 @@ type: page
 layout: page-builder
 title: Home Page
 permalink: /
-thumbnail: ""
+thumbnail: "/img/henlo-cover.png"
 blocks:
+  - type: homehero
+    title: Helping the People access and benefit from modern technology.
+    subtitle: Ya Tu Sabes
+    content: |-
+      ## ** Ya Tu Sabes **
+    variant: centered
+    buttons:
+      - button:
+          variant: outlined
+          content: Learn More
+          url: "#"
+      - button:
+          variant: button
+          content: Get Started
+          url: "#"
   - type: hero
     title: Henlo.
     content: |-

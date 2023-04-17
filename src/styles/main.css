@@ -1,3 +1,184 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.SectionWaves {
+    margin: 0;
+    height: 95vh;
+    margin-top: -6rem;
+   /* Animation */
+}
+@media (max-width: 768px) {
+    .SectionWaves {
+        height: 90vh;
+   }
+}
+.SectionWaves h1.headline {
+    font-family: 'Lato', 'Helvitica', 'sans-serif';
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: normal;
+    font-size: 2.5rem;
+}
+@media (max-width: 768px) {
+    .SectionWaves h1.headline {
+        font-size: 2rem;
+   }
+}
+.SectionWaves span.subtitle {
+    font-family: 'Lato', 'Helvitica', 'sans-serif';
+    font-weight: 300;
+    letter-spacing: 2px;
+    line-height: normal;
+    font-size: 34px;
+    text-transform: none;
+    margin: auto;
+}
+@media (max-width: 768px) {
+    .SectionWaves span.subtitle {
+        font-size: 28px;
+        margin: 0 1rem;
+   }
+}
+.SectionWaves span ul {
+    list-style-type: none;
+    list-style: none;
+    text-align: left;
+}
+.SectionWaves p {
+    font-family: 'Lato', 'Helvitica', 'sans-serif';
+    letter-spacing: 1px;
+    font-size: 14px;
+    color: #333;
+}
+.SectionWaves .header {
+    position: relative;
+    text-align: center;
+   /*background: linear-gradient(60deg, rgba(84, 58, 183, 1) 0%, rgba(0, 172, 193, 1) 100%);
+   */
+    background-image: linear-gradient(60deg, rgba(84, 58, 183, 0.9) 0%, rgba(0, 172, 193, 0.9) 100%), url("/img/annie-marek-barta-hKNVVGNba68-unsplash.jpg");
+    background-position: 0% 30%;
+    color: white;
+}
+@media screen and (max-width: 980px) {
+    .SectionWaves .header {
+        background-position: 0% 100%;
+   }
+}
+@media screen and (max-width: 480px) {
+    .SectionWaves .header {
+        background-position: 54% 35%;
+   }
+}
+.SectionWaves .logo {
+    width: 50px;
+    fill: white;
+    padding-right: 15px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.SectionWaves .inner-header {
+    height: 80vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+@media (max-width: 768px) {
+    .SectionWaves .inner-header {
+        height: 85vh;
+   }
+}
+.SectionWaves .flex {
+   /*Flexbox for containers*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.SectionWaves .waves {
+    position: relative;
+    width: 100%;
+    height: 15vh;
+    margin-bottom: -7px;
+   /*Fix for safari gap*/
+    min-height: 100px;
+    max-height: 150px;
+}
+@media (max-width: 768px) {
+    .SectionWaves .waves {
+        height: 40px;
+        min-height: 40px;
+   }
+}
+.SectionWaves .content {
+    position: relative;
+    height: 20vh;
+    text-align: center;
+    background-color: white;
+}
+@media (max-width: 768px) {
+    .SectionWaves .content {
+        height: 30vh;
+   }
+}
+.SectionWaves .parallax > use {
+    animation: move-forever 25s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;
+}
+.SectionWaves .parallax > use:nth-child(1) {
+    animation-delay: -2s;
+    animation-duration: 7s;
+}
+.SectionWaves .parallax > use:nth-child(2) {
+    animation-delay: -3s;
+    animation-duration: 10s;
+}
+.SectionWaves .parallax > use:nth-child(3) {
+    animation-delay: -4s;
+    animation-duration: 13s;
+}
+.SectionWaves .parallax > use:nth-child(4) {
+    animation-delay: -5s;
+    animation-duration: 20s;
+}
+@keyframes move-forever {
+    0% {
+        transform: translate3d(-90px, 0, 0);
+   }
+    100% {
+        transform: translate3d(85px, 0, 0);
+   }
+}
+.SectionWaves a {
+    -webkit-transition: 0.3s all ease-in-out;
+    -o-transition: 0.3s all ease-in-out;
+    transition: 0.3s all ease-in-out;
+}
+.SectionWaves a:hover {
+    -webkit-transition: 0.3s all ease-in-out;
+    -o-transition: 0.3s all ease-in-out;
+    transition: 0.3s all ease-in-out;
+}
+.SectionWaves a#work {
+    color: #217ebd;
+    background-color: white;
+    text-decoration: none;
+}
+.SectionWaves a#work:hover {
+    color: white;
+    background-color: #217ebd !important;
+    text-decoration: none;
+    box-shadow: 5px 5px 17px white;
+}
+/*Shrinking for mobile* / @media (max-width: 768px) {
+    .waves {
+        height: 40px;
+        min-height: 40px;
+   }
+    .content {
+        height: 30vh;
+   }
+    h1 {
+        font-size: 24px;
+   }
+}
+*/

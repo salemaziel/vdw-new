@@ -8,13 +8,14 @@ export default function DarkmodeToggle() {
         return (
           <button
             onClick={(e) => toggleTheme(theme === 'light' ? 'dark' : 'light')}
+            className="text-[#CBC83C]"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              className="h-6 w-6 block dark:hidden"
-              fill="none"
+              className="block w-6 h-6 dark:hidden"
+              fill="#fffb2a"
               viewBox="0 0 24 24"
-              stroke="currentColor"
+              stroke="#e7e440"
               strokeWidth={2}
             >
               <path
@@ -25,7 +26,7 @@ export default function DarkmodeToggle() {
             </svg>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              className="h-6 w-6 dark:block hidden"
+              className="hidden w-6 h-6 dark:block"
               fill="none"
               viewBox="0 0 24 24"
               stroke="currentColor"

@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-henlo",
-  "description": "Minimalistic starter for Gatsby v5, optimized for SEO & Performance.",
+  "name": "viadelweb-via-henlo-gatsby-starter",
+  "description": "Website for Via Del Web Website Design & Marketing Agency",
   "version": "1.1.0",
-  "author": "Wojciech Kałużny <wk@cleancommit.io>",
+  "author": "Salem Aziel <contact@salemaziel.com>",
   "browserslist": [
     "defaults"
   ],

@@ -1,11 +1,12 @@
 {
   "separator": "|",
-  "baseTitle": "Henlo.",
-  "keyword": "gatsby-starter, blazing fast static site",
+  "baseTitle": "Via Del Web",
+  "keyword": "website design, digital marketing, automation, consulting, software development, web development, web design, digital business, digital transformation, digital strategy, digital marketing strategy, digital marketing agency, digital marketing services, digital marketing company, digital marketing consultant",
   "lang": "en",
-  "title": "The most advanced starter for Gatsby & Netlify CMS.",
-  "themeColor": "#000",
-  "image": "/img/henlo-cover.png",
-  "twitterHandle": "@cleancommit",
-  "description": "Think lightweight WordPress. Extensible, block based starter for Netlify CMS. Built with performance in mind, styled with TailwindCSS. "
+  "title": "Via Del Web Website & Digital Marketing.",
+  "themeColor": "#0B4869",
+  "image": "/logo/logo.png",
+  "thumbnail": "/logo/banner.png",
+  "twitterHandle": "@viadelweb",
+  "description": "Website Design, Digital Marketing, and Digital Business Solutions for small businesses. We help you grow your business online by ensuring you get the most out of your Digital Real Estate to compete with the big guys."
 }

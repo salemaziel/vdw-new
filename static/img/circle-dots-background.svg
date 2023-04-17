@@ -1,0 +1,1529 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="600" viewBox="0 0 600 600" xml:space="preserve">
+<desc>Created with Fabric.js 4.0.0-beta.8</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 300.5 300.5)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-opacity: 0; fill-rule: nonzero; opacity: 1;"  x="-300" y="-300" rx="0" ry="0" width="600" height="600" />
+</g>
+<g transform="matrix(0.28 0 0 0.28 300 300)"  >
+<linearGradient id="SVGID_14580" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14580); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.25 0 0 0.25 329 300)"  >
+<linearGradient id="SVGID_14581" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14581); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.25 0 0 0.25 314.5 325.11)"  >
+<linearGradient id="SVGID_14582" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14582); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.25 0 0 0.25 285.5 325.11)"  >
+<linearGradient id="SVGID_14583" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14583); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.25 0 0 0.25 271 300)"  >
+<linearGradient id="SVGID_14584" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14584); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.25 0 0 0.25 285.5 274.89)"  >
+<linearGradient id="SVGID_14585" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14585); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.25 0 0 0.25 314.5 274.89)"  >
+<linearGradient id="SVGID_14586" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14586); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.23 0 0 0.23 358 300)"  >
+<linearGradient id="SVGID_14587" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14587); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.23 0 0 0.23 350.23 329)"  >
+<linearGradient id="SVGID_14588" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14588); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.23 0 0 0.23 329 350.23)"  >
+<linearGradient id="SVGID_14589" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14589); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.23 0 0 0.23 300 358)"  >
+<linearGradient id="SVGID_14590" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14590); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.23 0 0 0.23 271 350.23)"  >
+<linearGradient id="SVGID_14591" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14591); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.23 0 0 0.23 249.77 329)"  >
+<linearGradient id="SVGID_14592" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14592); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.23 0 0 0.23 242 300)"  >
+<linearGradient id="SVGID_14593" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14593); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.23 0 0 0.23 249.77 271)"  >
+<linearGradient id="SVGID_14594" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14594); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.23 0 0 0.23 271 249.77)"  >
+<linearGradient id="SVGID_14595" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14595); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.23 0 0 0.23 300 242)"  >
+<linearGradient id="SVGID_14596" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14596); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.23 0 0 0.23 329 249.77)"  >
+<linearGradient id="SVGID_14597" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14597); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.23 0 0 0.23 350.23 271)"  >
+<linearGradient id="SVGID_14598" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14598); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 387 300)"  >
+<linearGradient id="SVGID_14599" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14599); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 381.75 329.76)"  >
+<linearGradient id="SVGID_14600" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14600); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 366.65 355.92)"  >
+<linearGradient id="SVGID_14601" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14601); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 343.5 375.34)"  >
+<linearGradient id="SVGID_14602" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14602); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 315.11 385.68)"  >
+<linearGradient id="SVGID_14603" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14603); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 284.89 385.68)"  >
+<linearGradient id="SVGID_14604" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14604); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 256.5 375.34)"  >
+<linearGradient id="SVGID_14605" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14605); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 233.35 355.92)"  >
+<linearGradient id="SVGID_14606" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14606); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 218.25 329.76)"  >
+<linearGradient id="SVGID_14607" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14607); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 213 300)"  >
+<linearGradient id="SVGID_14608" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14608); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 218.25 270.24)"  >
+<linearGradient id="SVGID_14609" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14609); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 233.35 244.08)"  >
+<linearGradient id="SVGID_14610" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14610); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 256.5 224.66)"  >
+<linearGradient id="SVGID_14611" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14611); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 284.89 214.32)"  >
+<linearGradient id="SVGID_14612" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14612); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 315.11 214.32)"  >
+<linearGradient id="SVGID_14613" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14613); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 343.5 224.66)"  >
+<linearGradient id="SVGID_14614" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14614); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 366.65 244.08)"  >
+<linearGradient id="SVGID_14615" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14615); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.2 0 0 0.2 381.75 270.24)"  >
+<linearGradient id="SVGID_14616" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14616); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 416 300)"  >
+<linearGradient id="SVGID_14617" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14617); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 412.05 330.02)"  >
+<linearGradient id="SVGID_14618" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14618); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 400.46 358)"  >
+<linearGradient id="SVGID_14619" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14619); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 382.02 382.02)"  >
+<linearGradient id="SVGID_14620" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14620); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 358 400.46)"  >
+<linearGradient id="SVGID_14621" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14621); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 330.02 412.05)"  >
+<linearGradient id="SVGID_14622" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14622); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 300 416)"  >
+<linearGradient id="SVGID_14623" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14623); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 269.98 412.05)"  >
+<linearGradient id="SVGID_14624" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14624); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 242 400.46)"  >
+<linearGradient id="SVGID_14625" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14625); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 217.98 382.02)"  >
+<linearGradient id="SVGID_14626" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14626); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 199.54 358)"  >
+<linearGradient id="SVGID_14627" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14627); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 187.95 330.02)"  >
+<linearGradient id="SVGID_14628" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14628); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 184 300)"  >
+<linearGradient id="SVGID_14629" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14629); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 187.95 269.98)"  >
+<linearGradient id="SVGID_14630" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14630); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 199.54 242)"  >
+<linearGradient id="SVGID_14631" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14631); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 217.98 217.98)"  >
+<linearGradient id="SVGID_14632" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14632); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 242 199.54)"  >
+<linearGradient id="SVGID_14633" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14633); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 269.98 187.95)"  >
+<linearGradient id="SVGID_14634" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14634); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 300 184)"  >
+<linearGradient id="SVGID_14635" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14635); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 330.02 187.95)"  >
+<linearGradient id="SVGID_14636" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14636); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 358 199.54)"  >
+<linearGradient id="SVGID_14637" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14637); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 382.02 217.98)"  >
+<linearGradient id="SVGID_14638" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14638); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 400.46 242)"  >
+<linearGradient id="SVGID_14639" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14639); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.17 0 0 0.17 412.05 269.98)"  >
+<linearGradient id="SVGID_14640" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14640); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 445 300)"  >
+<linearGradient id="SVGID_14641" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14641); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 441.83 330.15)"  >
+<linearGradient id="SVGID_14642" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14642); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 432.46 358.98)"  >
+<linearGradient id="SVGID_14643" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14643); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 417.31 385.23)"  >
+<linearGradient id="SVGID_14644" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14644); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 397.02 407.76)"  >
+<linearGradient id="SVGID_14645" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14645); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 372.5 425.57)"  >
+<linearGradient id="SVGID_14646" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14646); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 344.81 437.9)"  >
+<linearGradient id="SVGID_14647" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14647); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 315.16 444.21)"  >
+<linearGradient id="SVGID_14648" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14648); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 284.84 444.21)"  >
+<linearGradient id="SVGID_14649" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14649); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 255.19 437.9)"  >
+<linearGradient id="SVGID_14650" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14650); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 227.5 425.57)"  >
+<linearGradient id="SVGID_14651" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14651); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 202.98 407.76)"  >
+<linearGradient id="SVGID_14652" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14652); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 182.69 385.23)"  >
+<linearGradient id="SVGID_14653" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14653); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 167.54 358.98)"  >
+<linearGradient id="SVGID_14654" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14654); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 158.17 330.15)"  >
+<linearGradient id="SVGID_14655" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14655); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 155 300)"  >
+<linearGradient id="SVGID_14656" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14656); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 158.17 269.85)"  >
+<linearGradient id="SVGID_14657" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14657); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 167.54 241.02)"  >
+<linearGradient id="SVGID_14658" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14658); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 182.69 214.77)"  >
+<linearGradient id="SVGID_14659" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14659); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 202.98 192.24)"  >
+<linearGradient id="SVGID_14660" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14660); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 227.5 174.43)"  >
+<linearGradient id="SVGID_14661" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14661); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 255.19 162.1)"  >
+<linearGradient id="SVGID_14662" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14662); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 284.84 155.79)"  >
+<linearGradient id="SVGID_14663" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14663); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 315.16 155.79)"  >
+<linearGradient id="SVGID_14664" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14664); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 344.81 162.1)"  >
+<linearGradient id="SVGID_14665" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14665); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 372.5 174.43)"  >
+<linearGradient id="SVGID_14666" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14666); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 397.02 192.24)"  >
+<linearGradient id="SVGID_14667" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14667); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 417.31 214.77)"  >
+<linearGradient id="SVGID_14668" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14668); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 432.46 241.02)"  >
+<linearGradient id="SVGID_14669" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14669); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.14 0 0 0.14 441.83 269.85)"  >
+<linearGradient id="SVGID_14670" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14670); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 474 300)"  >
+<linearGradient id="SVGID_14671" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14671); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 471.36 330.21)"  >
+<linearGradient id="SVGID_14672" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14672); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 463.51 359.51)"  >
+<linearGradient id="SVGID_14673" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14673); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 450.69 387)"  >
+<linearGradient id="SVGID_14674" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14674); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 433.29 411.85)"  >
+<linearGradient id="SVGID_14675" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14675); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 411.85 433.29)"  >
+<linearGradient id="SVGID_14676" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14676); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 387 450.69)"  >
+<linearGradient id="SVGID_14677" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14677); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 359.51 463.51)"  >
+<linearGradient id="SVGID_14678" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14678); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 330.21 471.36)"  >
+<linearGradient id="SVGID_14679" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14679); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 300 474)"  >
+<linearGradient id="SVGID_14680" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14680); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 269.79 471.36)"  >
+<linearGradient id="SVGID_14681" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14681); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 240.49 463.51)"  >
+<linearGradient id="SVGID_14682" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14682); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 213 450.69)"  >
+<linearGradient id="SVGID_14683" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14683); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 188.15 433.29)"  >
+<linearGradient id="SVGID_14684" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14684); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 166.71 411.85)"  >
+<linearGradient id="SVGID_14685" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14685); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 149.31 387)"  >
+<linearGradient id="SVGID_14686" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14686); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 136.49 359.51)"  >
+<linearGradient id="SVGID_14687" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14687); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 128.64 330.21)"  >
+<linearGradient id="SVGID_14688" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14688); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 126 300)"  >
+<linearGradient id="SVGID_14689" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14689); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 128.64 269.79)"  >
+<linearGradient id="SVGID_14690" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14690); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 136.49 240.49)"  >
+<linearGradient id="SVGID_14691" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14691); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 149.31 213)"  >
+<linearGradient id="SVGID_14692" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14692); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 166.71 188.15)"  >
+<linearGradient id="SVGID_14693" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14693); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 188.15 166.71)"  >
+<linearGradient id="SVGID_14694" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14694); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 213 149.31)"  >
+<linearGradient id="SVGID_14695" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14695); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 240.49 136.49)"  >
+<linearGradient id="SVGID_14696" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14696); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 269.79 128.64)"  >
+<linearGradient id="SVGID_14697" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14697); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 300 126)"  >
+<linearGradient id="SVGID_14698" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14698); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 330.21 128.64)"  >
+<linearGradient id="SVGID_14699" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14699); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 359.51 136.49)"  >
+<linearGradient id="SVGID_14700" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14700); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 387 149.31)"  >
+<linearGradient id="SVGID_14701" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14701); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 411.85 166.71)"  >
+<linearGradient id="SVGID_14702" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14702); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 433.29 188.15)"  >
+<linearGradient id="SVGID_14703" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14703); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 450.69 213)"  >
+<linearGradient id="SVGID_14704" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14704); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 463.51 240.49)"  >
+<linearGradient id="SVGID_14705" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14705); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.11 0 0 0.11 471.36 269.79)"  >
+<linearGradient id="SVGID_14706" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14706); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 503 300)"  >
+<linearGradient id="SVGID_14707" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14707); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 500.73 330.26)"  >
+<linearGradient id="SVGID_14708" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14708); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 493.98 359.84)"  >
+<linearGradient id="SVGID_14709" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14709); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 482.9 388.08)"  >
+<linearGradient id="SVGID_14710" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14710); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 467.73 414.35)"  >
+<linearGradient id="SVGID_14711" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14711); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 448.81 438.08)"  >
+<linearGradient id="SVGID_14712" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14712); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 426.57 458.71)"  >
+<linearGradient id="SVGID_14713" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14713); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 401.5 475.8)"  >
+<linearGradient id="SVGID_14714" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14714); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 374.16 488.97)"  >
+<linearGradient id="SVGID_14715" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14715); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 345.17 497.91)"  >
+<linearGradient id="SVGID_14716" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14716); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 315.17 502.43)"  >
+<linearGradient id="SVGID_14717" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14717); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 284.83 502.43)"  >
+<linearGradient id="SVGID_14718" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14718); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 254.83 497.91)"  >
+<linearGradient id="SVGID_14719" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14719); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 225.84 488.97)"  >
+<linearGradient id="SVGID_14720" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14720); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 198.5 475.8)"  >
+<linearGradient id="SVGID_14721" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14721); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 173.43 458.71)"  >
+<linearGradient id="SVGID_14722" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14722); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 151.19 438.08)"  >
+<linearGradient id="SVGID_14723" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14723); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 132.27 414.35)"  >
+<linearGradient id="SVGID_14724" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14724); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 117.1 388.08)"  >
+<linearGradient id="SVGID_14725" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14725); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 106.02 359.84)"  >
+<linearGradient id="SVGID_14726" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14726); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 99.27 330.26)"  >
+<linearGradient id="SVGID_14727" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14727); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 97 300)"  >
+<linearGradient id="SVGID_14728" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14728); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 99.27 269.74)"  >
+<linearGradient id="SVGID_14729" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14729); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 106.02 240.16)"  >
+<linearGradient id="SVGID_14730" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14730); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 117.1 211.92)"  >
+<linearGradient id="SVGID_14731" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14731); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 132.27 185.65)"  >
+<linearGradient id="SVGID_14732" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14732); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 151.19 161.92)"  >
+<linearGradient id="SVGID_14733" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14733); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 173.43 141.29)"  >
+<linearGradient id="SVGID_14734" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14734); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 198.5 124.2)"  >
+<linearGradient id="SVGID_14735" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14735); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 225.84 111.03)"  >
+<linearGradient id="SVGID_14736" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14736); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 254.83 102.09)"  >
+<linearGradient id="SVGID_14737" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14737); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 284.83 97.57)"  >
+<linearGradient id="SVGID_14738" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14738); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 315.17 97.57)"  >
+<linearGradient id="SVGID_14739" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14739); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 345.17 102.09)"  >
+<linearGradient id="SVGID_14740" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14740); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 374.16 111.03)"  >
+<linearGradient id="SVGID_14741" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14741); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 401.5 124.2)"  >
+<linearGradient id="SVGID_14742" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14742); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 426.57 141.29)"  >
+<linearGradient id="SVGID_14743" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14743); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 448.81 161.92)"  >
+<linearGradient id="SVGID_14744" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14744); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 467.73 185.65)"  >
+<linearGradient id="SVGID_14745" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14745); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 482.9 211.92)"  >
+<linearGradient id="SVGID_14746" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14746); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 493.98 240.16)"  >
+<linearGradient id="SVGID_14747" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14747); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.08 0 0 0.08 500.73 269.74)"  >
+<linearGradient id="SVGID_14748" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14748); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 532 300)"  >
+<linearGradient id="SVGID_14749" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14749); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 530.02 330.28)"  >
+<linearGradient id="SVGID_14750" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14750); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 524.09 360.05)"  >
+<linearGradient id="SVGID_14751" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14751); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 514.34 388.78)"  >
+<linearGradient id="SVGID_14752" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14752); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 500.92 416)"  >
+<linearGradient id="SVGID_14753" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14753); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 484.06 441.23)"  >
+<linearGradient id="SVGID_14754" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14754); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 464.05 464.05)"  >
+<linearGradient id="SVGID_14755" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14755); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 441.23 484.06)"  >
+<linearGradient id="SVGID_14756" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14756); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 416 500.92)"  >
+<linearGradient id="SVGID_14757" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14757); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 388.78 514.34)"  >
+<linearGradient id="SVGID_14758" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14758); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 360.05 524.09)"  >
+<linearGradient id="SVGID_14759" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14759); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 330.28 530.02)"  >
+<linearGradient id="SVGID_14760" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14760); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 300 532)"  >
+<linearGradient id="SVGID_14761" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14761); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 269.72 530.02)"  >
+<linearGradient id="SVGID_14762" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14762); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 239.95 524.09)"  >
+<linearGradient id="SVGID_14763" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14763); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 211.22 514.34)"  >
+<linearGradient id="SVGID_14764" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14764); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 184 500.92)"  >
+<linearGradient id="SVGID_14765" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14765); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 158.77 484.06)"  >
+<linearGradient id="SVGID_14766" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14766); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 135.95 464.05)"  >
+<linearGradient id="SVGID_14767" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14767); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 115.94 441.23)"  >
+<linearGradient id="SVGID_14768" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14768); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 99.08 416)"  >
+<linearGradient id="SVGID_14769" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14769); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 85.66 388.78)"  >
+<linearGradient id="SVGID_14770" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14770); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 75.91 360.05)"  >
+<linearGradient id="SVGID_14771" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14771); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 69.98 330.28)"  >
+<linearGradient id="SVGID_14772" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14772); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 68 300)"  >
+<linearGradient id="SVGID_14773" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14773); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 69.98 269.72)"  >
+<linearGradient id="SVGID_14774" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14774); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 75.91 239.95)"  >
+<linearGradient id="SVGID_14775" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14775); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 85.66 211.22)"  >
+<linearGradient id="SVGID_14776" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14776); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 99.08 184)"  >
+<linearGradient id="SVGID_14777" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14777); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 115.94 158.77)"  >
+<linearGradient id="SVGID_14778" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14778); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 135.95 135.95)"  >
+<linearGradient id="SVGID_14779" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14779); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 158.77 115.94)"  >
+<linearGradient id="SVGID_14780" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14780); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 184 99.08)"  >
+<linearGradient id="SVGID_14781" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14781); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 211.22 85.66)"  >
+<linearGradient id="SVGID_14782" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14782); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 239.95 75.91)"  >
+<linearGradient id="SVGID_14783" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14783); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 269.72 69.98)"  >
+<linearGradient id="SVGID_14784" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14784); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 300 68)"  >
+<linearGradient id="SVGID_14785" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14785); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 330.28 69.98)"  >
+<linearGradient id="SVGID_14786" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14786); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 360.05 75.91)"  >
+<linearGradient id="SVGID_14787" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14787); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 388.78 85.66)"  >
+<linearGradient id="SVGID_14788" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14788); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 416 99.08)"  >
+<linearGradient id="SVGID_14789" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14789); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 441.23 115.94)"  >
+<linearGradient id="SVGID_14790" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14790); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 464.05 135.95)"  >
+<linearGradient id="SVGID_14791" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14791); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 484.06 158.77)"  >
+<linearGradient id="SVGID_14792" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14792); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 500.92 184)"  >
+<linearGradient id="SVGID_14793" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14793); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 514.34 211.22)"  >
+<linearGradient id="SVGID_14794" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14794); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 524.09 239.95)"  >
+<linearGradient id="SVGID_14795" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14795); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+<g transform="matrix(0.06 0 0 0.06 530.02 269.72)"  >
+<linearGradient id="SVGID_14796" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 1 -16 -16)"  x1="14" y1="0" x2="18" y2="32">
+<stop offset="0%" style="stop-color:rgba(84, 58, 183, 1);"/>
+<stop offset="100%" style="stop-color:rgba(0, 172, 193, 1);"/>
+</linearGradient>
+<circle style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_14796); fill-rule: nonzero; opacity: 1;"  cx="0" cy="0" r="16" />
+</g>
+</svg>

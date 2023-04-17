@@ -22,7 +22,7 @@ export default function Perks({ data }) {
           </Text>
         )}
         <div
-          className={`mx-auto grid max-w-6xl grid-cols-2 gap-x-4 gap-y-6 md:gap-10 lg:grid-cols-3 `}>
+          className={`mx-auto grid max-w-6xl grid-cols-1 gap-x-4 gap-y-6 md:gap-10 lg:grid-cols-3 `}>
           {data?.columns &&
             data?.columns.map((col, i) => (
               <div className='flex' key={i}>

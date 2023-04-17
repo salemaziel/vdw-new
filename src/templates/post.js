@@ -8,12 +8,12 @@ import DefaultHead from '../components/Head/DefaultHead'
 const Post = ({ data }) => {
   return (
     <Layout nav={true}>
-      <section className="container mx-auto px-4 py-24">
-        <h1 className="mx-auto my-12 max-w-3xl text-6xl font-bold dark:text-white">
+      <section className="container px-4 py-24 mx-auto">
+        <h1 className="max-w-3xl mx-auto my-12 text-5xl font-bold text-center md:text-6xl dark:text-white">
           {data.post.frontmatter.title}
         </h1>
         <div
-          className="prose prose-lg mx-auto max-w-3xl dark:prose-invert"
+          className="max-w-3xl px-2 mx-auto prose prose-lg dark:prose-invert"
           dangerouslySetInnerHTML={{ __html: data?.post.html }}
         ></div>
       </section>
