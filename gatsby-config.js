@@ -43,13 +43,26 @@ siteUrl: 'https://dev.viadelweb.com',
         ],
       },
     },
-    {
-      resolve: 'gatsby-plugin-sitemap',
-      options: {
-        resolveSiteUrl: () =>
-          process.env.GATSBY_APP_URL || 'dev.viadelweb.com',
-      },
-    },
+//    {
+//      resolve: 'gatsby-plugin-sitemap',
+//      options: {
+//        resolveSiteUrl: () =>
+//          process.env.GATSBY_APP_URL || 'https://dev.viadelweb.com',
+//      },
+//      output: `/sitemap.xml`,
+//     // Exclude specific pages or groups of pages using glob parameters
+//      excludes: [
+//        `/en/offline-plugin-app-shell-fallback/`,
+//        `/en/privacy-policy`,
+//        `/privacy-policy`,
+//        `/besked-modtaget/`,
+//        `/en/besked-modtaget/`,
+//        `/en/404/`,
+//        `/en/404.html`,
+//        `/en/artikler/artikler-kommer-snart`,
+//        `/artikler/artikler-kommer-snart`,
+//      ],
+//    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
