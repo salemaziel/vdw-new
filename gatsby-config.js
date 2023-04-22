@@ -6,7 +6,7 @@ require('dotenv').config({
 module.exports = {
   siteMetadata: {
 //    siteUrl: process.env.GATSBY_APP_URL || 'http://localhost:8000',
-siteUrl: 'dev.viadelweb.com',
+siteUrl: 'https://dev.viadelweb.com',
 },
   flags: {
     DEV_SSR: true,
