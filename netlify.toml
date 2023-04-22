@@ -5,6 +5,10 @@
 [build.environment]
   YARN_VERSION = "1.9.4"
   YARN_FLAGS = "--no-ignore-optional"
+  NODE_VERSION = "16.20.0"
+  NPM_VERSION = "6.14.18"
+  NPM_FLAGS = "--no-ignore-optional --legacy-peer-deps"
+
 
 [[plugins]]
   package = "@netlify/plugin-gatsby"
