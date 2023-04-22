@@ -6,7 +6,7 @@ require('dotenv').config({
 module.exports = {
   siteMetadata: {
 //    siteUrl: process.env.GATSBY_APP_URL || 'http://localhost:8000',
-siteUrl: 'https://dev.viadelweb.com',
+siteUrl: 'dev.viadelweb.com',
 },
   flags: {
     DEV_SSR: true,
@@ -47,7 +47,7 @@ siteUrl: 'https://dev.viadelweb.com',
       resolve: 'gatsby-plugin-sitemap',
       options: {
         resolveSiteUrl: () =>
-          process.env.GATSBY_APP_URL || 'https://dev.viadelweb.com',
+          process.env.GATSBY_APP_URL || 'dev.viadelweb.com',
       },
     },
     {
