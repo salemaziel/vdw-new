@@ -5,8 +5,8 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-//    siteUrl: process.env.GATSBY_APP_URL || 'http://localhost:8000',
-siteUrl: 'https://dev.viadelweb.com',
+    siteUrl: process.env.GATSBY_APP_URL || 'http://localhost:8000',
+//steUrl: 'https://dev.viadelweb.com',
 },
   flags: {
     DEV_SSR: true,
@@ -35,7 +35,7 @@ siteUrl: 'https://dev.viadelweb.com',
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 1000,
-              quality: 72,
+              quality: 80,
               withWebp: true,
               withAvif: true,
             },

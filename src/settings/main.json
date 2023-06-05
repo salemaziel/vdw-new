@@ -10,11 +10,12 @@
     },
     {
       "name": "Resources",
-      "permalink": "#"
+      "permalink": "/resources/"
     },
     {
       "name": "Services",
-      "permalink": "#"
+      "permalink": "/services/",
+      "children": []
     }
   ],
   "navbutton": [

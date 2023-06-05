@@ -9,6 +9,7 @@ import Container from './UI/Container'
 
 import Logo from '../../static/img/logo-horiz.png'
 import Logo2 from '../../static/img/logo-horiz-white2.png'
+import clsx from 'clsx'
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -25,15 +26,19 @@ const Header = () => {
     setScroll(window.scrollY > 30);
   }, []);
 
+// const checking if is root path return true or false;
+const isRootPath = () => {
+  return typeof window !== 'undefined' && global.location.pathname === `${__PATH_PREFIX__}/`;
+};
 
-  return (
-    <header className={ (scroll ? "bg-[#2579bceb] text-white " : " text-white " ) + "sticky top-0 left-0 right-0 z-10 flex h-20 md:h-24  dark:bg-opacity-50 dark:bg-black text-white dark:text-white"} >
-      <Container className="flex items-center justify-between m-auto lg:gap-20">
-        <Link to="/" className="">
-          <Image src={Logo2} alt="Logo" className="h-14 md:w-auto md:h-20 " />
-        </Link>
-        <div className="items-center hidden md:flex">
-          <nav className="flex font-bold gap-14 ">
+return (
+  <header className={( !isRootPath() ? " !bg-[#2579bceb] !dark:bg-opacity-50 !dark:bg-black " : " ") + (scroll ? " bg-[#2579bceb] text-white " : " text-white " ) + "sticky top-0 left-0 right-0 z-10 flex h-20 md:h-24  dark:bg-opacity-50 dark:bg-black text-white dark:text-white"} >
+    <Container className="flex items-center justify-between m-auto lg:gap-20">
+      <Link to="/" className="">
+        <Image src={Logo2} alt="Logo" className="h-14 md:w-auto md:h-20 " />
+      </Link>
+      <div className="items-center hidden md:flex">
+        <nav className="flex font-bold gap-14 ">
             {nav.nav.map((item, i) => (
               <Link to={item.permalink} key={i}>
                 {item.name}

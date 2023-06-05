@@ -4,23 +4,22 @@ type: page
 layout: page-builder
 title: Home Page
 permalink: /
-thumbnail: "/img/henlo-cover.png"
+thumbnail: /img/banner.png
 blocks:
-  - type: homehero
+  - type: homeHero
     title: Helping the People access and benefit from modern technology.
     subtitle: Ya Tu Sabes
-    content: |-
-      ## ** Ya Tu Sabes **
+    content: "## ** Ya Tu Sabes **"
     variant: centered
     buttons:
       - button:
           variant: outlined
           content: Learn More
-          url: "#"
+          url: /about/
       - button:
           variant: button
           content: Get Started
-          url: "#"
+          url: /get-started/
   - type: hero
     title: Henlo.
     content: |-
@@ -98,5 +97,5 @@ blocks:
       image: /img/frame-72.png
       alt: Netlify CMS configuration with Henlo
 seo:
-  ogimage: /img/henlo-cover.png
+  ogimage: /img/logo.png
 ---

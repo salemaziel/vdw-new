@@ -1,4 +1,4 @@
-import { Buttons, Title, Content, VariantField, ImageField } from '../fields';
+import { Buttons, Title, Content, VariantField, ImageField, Subtitle } from '../fields';
 
 const Config = {
   label: 'Blocks',
@@ -14,6 +14,17 @@ const Config = {
         Content,
         Buttons,
         VariantField('default', ['default', 'centered', 'full']),
+      ],
+    },
+    {
+      label: 'Home Hero',
+      name: 'homeHero',
+      widget: 'object',
+      fields: [
+        Title,
+        Subtitle,
+        Buttons,
+        VariantField('default', ['default', 'centered']),
       ],
     },
     {

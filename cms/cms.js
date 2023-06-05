@@ -4,6 +4,7 @@ import { Widget as PermalinkWidget } from 'netlify-cms-widget-permalink';
 
 import pages from './collections/pages';
 import posts from './collections/posts';
+import forms from './collections/forms';
 import authors from './collections/authors';
 import settings from './collections/settings';
 import PagePreview from './previews/Page';
@@ -17,7 +18,7 @@ const config = {
     local_backend: true,
     backend: {
       name: 'git-gateway',
-      // branch: 'next',
+       branch: 'master',
     },
     slug: {
       encoding: 'ascii',
@@ -25,7 +26,7 @@ const config = {
     },
     media_folder: '/static/img',
     public_folder: '/img',
-    collections: [pages, posts, authors, settings],
+    collections: [pages, posts, forms, authors, settings],
   },
 };
 

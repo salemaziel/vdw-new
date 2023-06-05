@@ -4,4 +4,3 @@ type: author
 title: Salem Aziel
 thumbnail: /img/salem.png
 ---
-WK is the technical wizard behind the technology delivered by Clean Commit.

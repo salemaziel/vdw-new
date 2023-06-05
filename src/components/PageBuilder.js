@@ -16,7 +16,7 @@ export default function PageBuilder({ blocks, preview = false }) {
           switch (block.type) {
             case 'hero':
               return <Hero key={i} data={block} />;
-            case 'homehero':
+            case 'homeHero':
               return <HomeHero key={i} data={block} />;
             case 'recentArticles':
               return <RecentArticles key={i} data={block} preview={preview} />;
