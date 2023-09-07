@@ -1,0 +1,135 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "gatsby",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:8000",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "authors",
+      "path": "[[workspace]]/content/authors"
+    },
+    {
+      "title": "blog",
+      "path": "[[workspace]]/content/blog"
+    },
+    {
+      "title": "forms",
+      "path": "[[workspace]]/content/forms"
+    },
+    {
+      "title": "pages",
+      "path": "[[workspace]]/content/pages"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [],
+  "frontMatter.taxonomy.categories": [],
+  "frontMatter.data.files": [
+    {
+      "id": "navigation",
+      "title": "Navigation",
+      "file": "[[workspace]]/settings/main.json",
+      "fileType": "json",
+      "labelField": "name",
+      "singleEntry": false,
+      "schema": {
+        "title": "Navigation",
+        "type": "object",
+        "required": ["name", "permalink"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "permalink": {
+            "type": "string",
+            "title": "permalink"
+          },
+          "children": {
+            "type": "array",
+            "title": "Dropdown",
+            "items": {
+              "type": "object",
+
+              "required": ["name", "permalink"],
+              "properties": {
+                "name": {
+                  "type": "string",
+                  "title": "Name"
+                },
+                "permalink": {
+                  "type": "string",
+                  "title": "permalink"
+                }
+              }
+            }
+          }
+        },
+        "schema": {
+          "title": "NavButton",
+          "type": "object",
+          "required": ["name", "permalink"],
+          "properties": {
+            "name": {
+              "type": "string",
+              "title": "Name"
+            },
+            "permalink": {
+              "type": "string",
+              "title": "permalink"
+            },
+            "children": {
+              "type": "string",
+              "title": "Description"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

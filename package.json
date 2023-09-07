@@ -36,7 +36,8 @@
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
     "react-hook-form": "^7.43.9",
-    "react-markdown": "^8.0.7"
+    "react-markdown": "^8.0.7",
+    "tailwindcss-question-mark": "^0.4.0"
   },
   "keywords": [
     "gatsby"

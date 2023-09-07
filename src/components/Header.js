@@ -32,7 +32,7 @@ const isRootPath = () => {
 };
 
 return (
-  <header className={( !isRootPath() ? " !bg-[#2579bceb] !dark:bg-opacity-50 !dark:bg-black " : " ") + (scroll ? " bg-[#2579bceb] text-white " : " text-white " ) + "sticky top-0 left-0 right-0 z-10 flex h-20 md:h-24  dark:bg-opacity-50 dark:bg-black text-white dark:text-white"} >
+  <header className={( !isRootPath() ? " !bg-[#2579bceb] !dark:bg-opacity-50 !dark:bg-black " : " !bg-transparent opacity-0 text-white ") + (scroll ? " bg-[#2579bceb] text-white " : " text-white " ) + "sticky top-0 left-0 right-0 z-10 flex h-20 md:h-24  dark:bg-opacity-50 dark:bg-black text-white dark:text-white"} >
     <Container className="flex items-center justify-between m-auto lg:gap-20">
       <Link to="/" className="">
         <Image src={Logo2} alt="Logo" className="h-14 md:w-auto md:h-20 " />
